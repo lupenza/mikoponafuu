@@ -1,0 +1,111 @@
+#loan_offered_container{
+   
+    margin-left: 20%;
+    margin-right: 20%;
+   
+   
+
+}
+#container{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 190px; */
+    border-radius: 10px;
+    /* margin-top: 200px; */
+    
+}
+#topContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 30%;
+    padding: 10px 15px 10px 15px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom: 1px solid #C0CED7;
+}
+#buttonText{
+    font-size: 14px;
+    font-weight: bold;
+}
+#containerHeader{
+    font-size: 25px;
+    font-weight: bold;
+    color: #025FC9;
+}
+#middleContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 25%;
+    padding: 10px 15px 10px 15px;
+    border-bottom: 1px solid #C0CED7;
+    cursor: pointer;
+}
+#middleTitle{
+    font-size: 16px;
+    font-weight: 800;
+    color: #2E3A52;
+}
+#iconStyle{
+    font-size: 20px;
+    color: #025FC9;
+}
+#bottomContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 15px 10px 15px;
+    cursor: pointer;
+
+}
+#listTextStyle{
+    margin-left: 2px;
+}
+#rateBottomContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#rateStyle{
+    font-size: 20px;
+    font-weight: 800;
+    color: #025FC9;
+}
+#rateTextStyle{
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+#hiddenContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 15px 10px 15px;
+    border-top: 1px solid #C0CED7;
+}
+#hiddenContainerButton{
+    background-color: #fff;
+    border: 1px solid #025FC9;
+    width: 250px;
+    border-radius: 10px;
+    height: 50px;
+   
+}
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#refineButton{
+    background-color: #fff;
+    border: 1px solid #E0E4E8;
+    width: 100%;
+    border-radius: 10px;
+    height: 40px;
+}
